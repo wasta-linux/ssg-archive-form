@@ -1,0 +1,13 @@
+Source: ssg-archive-form
+Section: utils
+Priority: extra
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://launchpad.net/~wasta-linux/+archive/ubuntu/wasta
+
+Package: ssg-archive-form
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: SSG Archive Information Form
+ Utility to create SSG Archive Information Form submissions

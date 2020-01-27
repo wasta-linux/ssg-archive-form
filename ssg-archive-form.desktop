@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SSG Archive Form
+Comment=Utility to create SSG Archive Information Form submissions
+Exec=ssg-archive-form
+Terminal=false
+Type=Application
+Icon=ssg
+Categories=Application;Qt;Utility;

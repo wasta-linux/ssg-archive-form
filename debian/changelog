@@ -1,0 +1,17 @@
+ssg-archive-form (0.9.2) xenial; urgency=medium
+
+  * Added Lango/Pari/Reel languages
+
+ -- Justin Luth <jluth@mail.com>  Mon, 27 Jan 2020 14:31:39 +0300
+
+ssg-archive-form (0.9.1) precise; urgency=low
+
+  * Added "Wau" as a place of publication.
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 16 Jul 2014 15:44:48 -0500
+
+ssg-archive-form (0.9.0) precise; urgency=low
+
+  * Initial Release
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Tue, 15 Jul 2014 13:05:02 -0600
